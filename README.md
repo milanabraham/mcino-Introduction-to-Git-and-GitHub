@@ -1,8 +1,14 @@
-# mcino-Introduction-to-Git-and-GitHub
-# Introduction to Git and GitHub
+## Simple Interest Calculator
 
-This project is part of the IBM Developer Skills Network course.
-It demonstrates basic Git and GitHub concepts such as forking,
-cloning, branching, merging, and creating pull requests.
+This project implements a simple interest calculator using a Bash script.
 
-Author: Milan
+The calculator accepts the following user inputs:
+- Principal amount
+- Rate of interest
+- Time period (in years)
+
+It then calculates and displays the simple interest using the formula:
+
+Simple Interest = (Principal × Rate × Time) / 100
+
+This project is created as part of the GitHub Final Project assignment.
